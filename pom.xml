@@ -44,9 +44,9 @@
 	
   <dependencies>
 <dependency>
-    <groupId>org.glassfish.common</groupId>
-    <artifactId>glassfish-api</artifactId>
-    <version>3.0.1</version>
+    <groupId>org.apache.cxf</groupId>
+    <artifactId>cxf-rt-frontend-jaxws</artifactId>
+    <version>2.5.0</version>
 </dependency>
 
   </dependencies>

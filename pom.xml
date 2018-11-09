@@ -43,10 +43,10 @@
     </build>
 	
   <dependencies>
-	<dependency>
-		    <groupId> org.apache.tomcat </groupId>
-		    <artifactId>tomcat-dbcp</artifactId>
-		    <version>7.0.30</version>
-		</dependency> 
+<dependency>
+    <groupId>io.swagger</groupId>
+    <artifactId>swagger-parser</artifactId>
+    <version>1.0.30</version>
+</dependency>
   </dependencies>
 </project>

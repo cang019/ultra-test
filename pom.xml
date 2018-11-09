@@ -44,9 +44,10 @@
 	
   <dependencies>
 <dependency>
-    <groupId>org.apache.activemq</groupId>
-    <artifactId>activemq-core</artifactId>
-    <version>5.7.0</version>
+    <groupId>org.jboss.as</groupId>
+    <artifactId>jboss-as-server</artifactId>
+    <version>7.2.0.Final</version>
 </dependency>
+
   </dependencies>
 </project>

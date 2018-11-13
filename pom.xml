@@ -44,11 +44,11 @@
 	
   <dependencies>
 <dependency>
-    <groupId>org.mozilla.components</groupId>
-    <artifactId>ktx</artifactId>
-    <version>0.27.0</version>
-    <scope>runtime</scope>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-servlet-api</artifactId>
+    <version>8.0.14</version>
 </dependency>
+
 
 
   </dependencies>
